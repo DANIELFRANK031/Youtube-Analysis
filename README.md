@@ -2,7 +2,7 @@
 OBJECTIVES:
 1.The head of sales wants to find who the top youtubers are in 20224 inorder to gain insight to the best way  to run a campaign for sales and marketing for our solution
 2. create a dashbord that provides youtubers in UK to showcase:
-    -The count of subscribers
+    -The sum of net profit
     -Total views
     -Total videos
     -Engagement metrics
